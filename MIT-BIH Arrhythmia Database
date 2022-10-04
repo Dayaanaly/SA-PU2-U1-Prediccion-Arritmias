@@ -1,0 +1,5 @@
+La base de datos de arritmias de MIT-BIH [1]
+https://physionet.org/content/mitdb/1.0.0/
+
+Contiene 48 extractos de 30 minutos de registros de ECG ambulatorios de dos canales, obtenidos de 47 sujetos 
+estudiados por el Laboratorio de Arrimias (BIH) entre 1975 y 1979.
